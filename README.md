@@ -21,8 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-[![Digitando SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E19D5&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&random=falso&width=435&lines=Rodrigo+Kelven+;Backend+Developer+)](https://git.io/typing-svg)
 
 ###
 
