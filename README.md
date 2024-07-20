@@ -24,3 +24,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ThaTiemsz/ThaTiemsz/output/snake.svg" alt="Animação Cobra"/>
+
+<img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Animação Cobra"/>
