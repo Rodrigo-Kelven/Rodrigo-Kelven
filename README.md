@@ -1,7 +1,3 @@
-# Hello World 🌍
-
-<h2 align="left">Olá 👋! 
-  Me chamo Rodrigo Kelven, sou programador Backend Junior. Estou sempre em busca de desafios e experiências novas.</h2>
 
 ###
 
