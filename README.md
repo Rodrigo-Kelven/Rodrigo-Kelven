@@ -11,7 +11,6 @@
 ![Gin](https://img.shields.io/badge/gin-%23D9B44A.svg?style=for-the-badge&logo=gin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-00BFFF?style=for-the-badge&logo=gitlab&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
