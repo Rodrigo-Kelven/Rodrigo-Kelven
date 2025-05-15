@@ -10,6 +10,7 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Gin](https://img.shields.io/badge/gin-%23D9B44A.svg?style=for-the-badge&logo=gin&logoColor=white)
+![Fiber](https://img.shields.io/badge/fiber-%2300ADD8.svg?style=for-the-badge&logo=Fiber&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-00BFFF?style=for-the-badge&logo=gitlab&logoColor=ffffff)
