@@ -41,7 +41,7 @@
  -->
 <!-- -->
 <!-- Recolocado lado a lado-->
-![](https://github-readme-stats.vercel.app/api?username=Rodrigo-Kelven&theme=dark&hide_border=false&include_all_commits=true&count_private=true&auto_refresh=true&langs_count=100) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Kelven&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&auto_refresh=true&langs_count=100)
+![](https://github-readme-stats.vercel.app/api?username=Rodrigo-Kelven&theme=dark&hide_border=false&include_all_commits=true&count_private=true&auto_refresh=true&langs_count=100) <!-- | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Kelven&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&auto_refresh=true&langs_count=100)  -->
 
 
 
