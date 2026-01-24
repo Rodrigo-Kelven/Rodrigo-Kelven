@@ -1,7 +1,7 @@
 # 💻 Tech Stacks
 
 ## Languages and Frameworks
-[![Languages and Frameworks](https://skillicons.dev/icons?i=java,spring,hibernate,maven,go,solidity,c,bash,py,flask,fastapi,django)](https://skillicons.dev)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=java,kotli,spring,hibernate,maven,go,solidity,c,bash,py,flask,fastapi,django)](https://skillicons.dev)
 
 ## Databases
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,cassandra,redis,)](https://skillicons.dev)
