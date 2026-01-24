@@ -7,7 +7,7 @@
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,cassandra,redis,)](https://skillicons.dev)
 
 ## Clouds
-[![Clouds](https://skillicons.dev/icons?i=aws,googlecloud,azure)](https://skillicons.dev)
+[![Clouds](https://skillicons.dev/icons?i=aws,googlecloud)](https://skillicons.dev)
 
 ## DevOps
 [![DevOps](https://skillicons.dev/icons?i=githubactions,docker,kubernetes,terraform,grafana,prometheus,nginx,rabbitmq,kafka)](https://skillicons.dev)
